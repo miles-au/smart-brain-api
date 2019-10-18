@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
@@ -14,7 +14,7 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "knex": "^0.19.5",
-    "node server": "^1.19.3",
+    "nodemon": "^1.19.3",
     "pg": "^7.12.1"
   }
 }
